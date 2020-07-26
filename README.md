@@ -26,7 +26,7 @@
 21-Filter-Sort-Products
 22-Deploy-Website-on-Heroku
 1. create new App
-2. git remote add heroku https://git.heroku.com/myamazona.git
+2. git remote add heroku https://myzone-m.herokuapp.com/
 3. Install Heroku CLI
 4. heroku login
 5. git push heroku master
